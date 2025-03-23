@@ -1,13 +1,7 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
-Here's a Product Requirements Document (PRD) for the Todo Application with Event-Driven Architecture:
-
----
-
 # **Product Requirements Document**  
 **Todo Application with Event-Driven Architecture**  
 **Version:** 1.0  
-**Date:** [Today's Date]  
+**Date:** 23.03.2025  
 
 ---
 
